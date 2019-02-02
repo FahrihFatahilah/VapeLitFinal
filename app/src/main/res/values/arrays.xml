@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="PilihanHitung">
+        <item>Resistance</item>
+        <item>Ampere</item>
+        <item>Watt</item>
+        <item>Volt</item>
+    </string-array>
+</resources>

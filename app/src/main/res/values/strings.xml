@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">VapeLit</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="api_key_android">AIzaSyBwWTFqWCtn4xOye9XwQNW54ye9GKO-zgU</string>
+    <string name="title_activity_test_map">Map</string>
+    <string name="title_activity_main2">Ohm Calculator</string>
+    <string name="title_activity_maps3">Nearby Vape Store</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3461928117041817/8277300292</string>
+
+    <string name="developer_button">See More!</string>
+    <string name="share_button">Share!</string>
+    <string name="volts">Volts (V): </string>
+    <string name="amps">Amps (I): </string>
+    <string name="ohms">Ohms (R): </string>
+    <string name="watts">Watts (P): </string>
+    <string name="calculate">Calculate</string>
+    <string name="help">Help!</string>
+    <string name="reset">Reset</string>
+    <string name="close">Close</string>
+
+    <string name="text_holder">TEXT</string>
+    <string name="alert_close">Got It!</string>
+    <string name="alert_title">Invalid Entries!</string>
+    <string name="alert_description">Please enter values in exactly two fields.</string>
+    <string name="alert_description_fitur">This Feature Coming on Next Update !</string>
+    <string name="alert_description_inet">Internet Connection Not Detect \nPlease Enable Internet Connection First</string>
+    <string name="help_title">How to</string>
+    <string name="help_description">Enter values in exactly two fields.\nThen press calculate.\n\nThe remaining fields will be calculated and filled in!\n\nTip: When keyboard is shown, the screen will scroll, so you can move the screen to show all fields.</string>
+    <string name="about">About Ohm\'s Law</string>
+    <string name="about_description">Ohm\'s law states that the current through a conductor between two points is directly proportional to the potential difference across the two points. Introducing the constant of proportionality, the resistance, one arrives at the usual mathematical equation that describes this relationship:\n
+\nI = V / R\n
+\nwhere I is the current through the conductor in units of amperes, V is the potential difference measured across the conductor in units of volts, and R is the resistance of the conductor in units of ohms. More specifically, Ohm\'s law states that the R in this relation is constant, independent of the current</string>
+    <string name="title_activity_youtube">Youtube</string>
+
+</resources>
